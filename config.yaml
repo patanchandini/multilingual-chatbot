@@ -1,0 +1,19 @@
+languages: [en, hi, ta, es]
+default_language: en
+
+thresholds:
+  lang_conf_min: 0.60
+  intent_conf_min: 0.55
+  entity_conf_min: 0.70
+
+context:
+  context_max_turns: 10
+  summary_max_tokens: 200
+
+sessions:
+  idle_timeout_sec: 1800      # 30 minutes
+  resume_window_sec: 86400    # 24 hours
+
+limits:
+  max_requests_per_message: 5
+  spell_max_distance: 2
