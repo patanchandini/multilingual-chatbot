@@ -1,5 +1,13 @@
 # Multilingual Chatbot API
 
+
+
+🔗 **Live API URL:** [https://multilingual-chatbot-0hfk.onrender.com](https://multilingual-chatbot-0hfk.onrender.com)
+
+📚 **Interactive Swagger UI (Try it out!):** [https://multilingual-chatbot-0hfk.onrender.com/docs](https://multilingual-chatbot-0hfk.onrender.com/docs)
+
+
+
 A complete, production-ready conversational AI backend that supports multiple languages, mixed-language messages, context retention, and strict session management. Built with Python and FastAPI.
 
 ## 🚀 Features
